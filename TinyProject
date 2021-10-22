@@ -1,4 +1,4 @@
-class TinyProject{
+public class TinyProject{
  public static void main(){
  
  
