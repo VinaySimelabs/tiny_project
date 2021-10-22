@@ -17,7 +17,8 @@ public Student(int[] listOfMarks, String name) {
 	super();
 	for(int mark:listOfMarks)
 	this.listOfMarks.add(mark);
-	this.name = name;
+	this.name = name;//
+	
 }
 
 
@@ -57,4 +58,5 @@ public String toString() {
 	return name + listOfMarks;
 }
 //helloguys
+//vinay pushed
 }
