@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class TinyProject{
 public static void main(String[] args) {
  fact();//amal
