@@ -96,7 +96,7 @@ public class Multiple{
         }
     }
 }
-public class Pattern1
+public class Pattern1{
 
   public static void patterns() {
     /*code by vinay vincent*/
