@@ -1,5 +1,5 @@
 
-public class pallin {
+public class Pallin {
 	public static void pal {
 		String original, reverse = "";
 		Scanner in = new Scanner(System.in);
