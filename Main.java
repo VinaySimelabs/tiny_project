@@ -16,6 +16,9 @@ fibonacci.printFibonacciNumbers(10);
 Pattern1 pattern = new Pattern1();
 pattern.patterns();
 
+pallin pallindrom = new pallin();
+pallindrom.pal();
+
 
 		
 	}	
