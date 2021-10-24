@@ -1,9 +1,7 @@
-package pallindrr;
-
 import java.util.Scanner;
 
 public class Palind {
-	public static void main(String args[]) {
+	public static void pal(){
 		int r, sum = 0, temp;
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the number :");
