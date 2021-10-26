@@ -1,3 +1,4 @@
+package finals;
 import java.util.Scanner;
 
 public class Palind {
